@@ -37,7 +37,7 @@ class App extends React.Component{
     render(){    
       return (
         <div>
-        	<Header />
+        	<Header currentUser = {this.state.currentUser} />
     		{/* Routing for the Home and Shop page */}
         	<Switch>
             	  <Route exact path='/' component={HomePage} />
