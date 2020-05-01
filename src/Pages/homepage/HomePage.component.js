@@ -5,7 +5,7 @@ import Directory from '../../Components/directory/directory.components';
 
 const HomePage = () =>
 (
-	<div>
+	<div className="homepage">
 		<Directory />
 	</div>
 );
