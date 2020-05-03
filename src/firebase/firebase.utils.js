@@ -7,7 +7,7 @@ const config= {
     authDomain: "fashion-point-fda00.firebaseapp.com",
     databaseURL: "https://fashion-point-fda00.firebaseio.com",
     projectId: "fashion-point-fda00",
-    storageBucket: "",
+    storageBucket: "fashion-point-fda00.appspot.com",
     messagingSenderId: "595466618431",
     appId: "1:595466618431:web:21946dea7a9590e8e99a8a"
 };
